@@ -1,3 +1,11 @@
 .biorhythms-card .physical {
   color: green;
 }
+
+.biorhythms-card .emotional {
+  color: var(--app-emotional-color);
+}
+
+.biorhythms-card .intellectual {
+  color: red;
+}
